@@ -3,6 +3,11 @@
 ## Brief description
 A two-player fighting game recreated in pure **C# / WinForms** with custom animation frame loading and keyboard controls, built without a game engine.
 
+## Tech stack
+- C#
+- Windows Forms (.NET 8)
+- Custom sprite animation (no game engine)
+
 ## Project purpose
 Demonstrate multimedia programming fundamentals (sprite animation, input handling, sound cues, round flow) in a classic 2D fighter layout.
 
