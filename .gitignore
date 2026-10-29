@@ -1,0 +1,16 @@
+bin/
+obj/
+.vs/
+*.user
+*.rar
+*.zip
+.DS_Store
+Thumbs.db
+Assets/**/*.png
+Assets/**/*.jpg
+Assets/**/*.jpeg
+Assets/**/*.gif
+Assets/**/*.wav
+Assets/**/*.mp3
+Assets/**/*.ogg
+!Assets/README.md

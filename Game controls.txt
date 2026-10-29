@@ -1,0 +1,38 @@
+Game Controls (Mortal Kombat Style)
+
+---
+
+SCORPION CONTROLS (Player 1)
+
+| Key    | Action                                            |
+| ------ | ------------------------------------------------- |
+| A      | Move Left                                         |
+| D      | Move Right                                        |
+| Space  | Jump                                              |
+| S      | Duck / Stand Up                                   |
+| Shift  | Toggle Sprint                                     |
+| G      | Throw Rope (Spear)                                |
+| P      | Flip Stance                                       |
+| E      | Frontflip (Facing Right) / Backflip (Facing Left) |
+| Q      | Backflip (Facing Right) / Frontflip (Facing Left) |
+| Z      | Take Damage (Test)                                |
+| X      | Damage Sub-Zero (Test)                            |
+| Escape | Exit Game                                         |
+
+---
+
+SUB-ZERO CONTROLS (Player 2)
+
+| Key         | Action                                            |
+| ----------- | ------------------------------------------------- |
+| Left Arrow  | Move Left                                         |
+| Right Arrow | Move Right                                        |
+| Up Arrow    | Jump                                              |
+| Down Arrow  | Duck / Stand Up                                   |
+| M           | Toggle Sprint                                     |
+| L           | Flip Stance                                       |
+| F           | Freeze Special Move                               |
+| N           | Slide Attack                                      |
+| I           | Frontflip (Facing Left) / Backflip (Facing Right) |
+| O           | Backflip (Facing Left) / Frontflip (Facing Right) |
+| Escape      | Exit Game 
